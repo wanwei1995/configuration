@@ -38,3 +38,4 @@ spring:
     username: test
     password: test
     virtual-host: boot
+  hello: helloWorld
